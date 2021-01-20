@@ -1,2 +1,2 @@
 # site-fotografo
- Repositório do site de um fotógrafo
+ Repositório de exemplo para o site de um fotógrafo
