@@ -1,2 +1,3 @@
 # site-fotografo
- Repositório de exemplo para o site de um fotógrafo
+
+Exemplo de um site de fotógrafo simples, apenas com html e css.
